@@ -1,8 +1,8 @@
 # Roman Number Converter  - MTSS Assignment 2
 
 
- ![Java CI with Maven](https://github.com/whyle/MTSS2/workflows/Java%20CI%20with%20Maven/badge.svg)
-
+![Java CI with Maven](https://github.com/whyle/MTSS2/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/JuniorBanana/MTSS/badge.svg?branch=main)](https://coveralls.io/github/JuniorBanana/MTSS?branch=main)
 ## Description
 
 This project aims to provide two functionalities:
