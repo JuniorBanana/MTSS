@@ -143,7 +143,6 @@ public class IntegerToRomanTest
 
         return result;
     }
-
     @Test(timeout = 1000)
     public void romanToIntegerTest_CDM() {
         for (int i = 100; i <= 1000; i = i + 100) {
